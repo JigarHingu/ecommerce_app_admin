@@ -106,7 +106,7 @@ VITE_BACKEND_URL=<your_url>
 4. Open your Browser and Go to:
 
     ```
-    http://localhost:5173/
+    http://localhost:5174/
     ```
 
 ---
